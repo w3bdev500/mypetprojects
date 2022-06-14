@@ -1,0 +1,17 @@
+body{
+    background-color: #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 10%;
+    gap: 5%;
+    text-shadow: 2px, 2px, 2px, 2px black ;
+    color: white;
+    
+}
+
+.counter-text{
+    padding: 20px;
+    font-size: 10rem;
+}
